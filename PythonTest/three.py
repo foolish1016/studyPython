@@ -9,8 +9,7 @@ class Student(object):
     def getpropty(self):
         print (self.name)
 
-    def getpropty1(self):
-        print (self.name)
+
 
 
 
